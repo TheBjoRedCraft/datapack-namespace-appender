@@ -1,4 +1,4 @@
 @echo off
-python "E:\python\mc-datapack-namespace-formatter\main.py"
+python ".\main.py"
 echo.
 pause
